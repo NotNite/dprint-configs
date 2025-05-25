@@ -1,0 +1,14 @@
+{
+  // TypeScript and JavaScript
+  "$schema": "https://dprint.dev/schemas/v0.json",
+  "extends": ["../base.json"],
+
+  "typescript": {
+    "trailingCommas": "never",
+    "quoteStyle": "preferDouble"
+  },
+
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.95.4.wasm"
+  ]
+}

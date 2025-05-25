@@ -1,0 +1,15 @@
+{
+  "$schema": "https://dprint.dev/schemas/v0.json",
+
+  "lineWidth": 120,
+  "indentWidth": 2,
+  "useTabs": false,
+  "newLineKind": "lf",
+
+  "excludes": [
+    "**/node_modules",
+    "**/package-lock.json",
+    "**/pnpm-lock.yaml",
+    "**/deno.lock"
+  ]
+}

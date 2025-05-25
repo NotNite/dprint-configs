@@ -1,0 +1,16 @@
+{
+  // Markdown and MDX
+  "$schema": "https://dprint.dev/schemas/v0.json",
+  "extends": ["../base.json"],
+
+  "markdown": {
+    "emphasisKind": "asterisks",
+    "associations": [
+      "**/*.mdx"
+    ]
+  },
+
+  "plugins": [
+    "https://plugins.dprint.dev/markdown-0.18.0.wasm"
+  ]
+}

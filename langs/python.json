@@ -1,0 +1,10 @@
+{
+  // Python and Jupyter
+  "$schema": "https://dprint.dev/schemas/v0.json",
+  "extends": ["../base.json"],
+
+  "plugins": [
+    "https://plugins.dprint.dev/ruff-0.3.9.wasm",
+    "https://plugins.dprint.dev/jupyter-0.2.0.wasm"
+  ]
+}
