@@ -4,10 +4,8 @@
   "extends": ["../base.json"],
 
   "markup": {
-    "astro.styleIndent": true,
-    "astro.scriptIndent": true,
-    "svelte.scriptIndent": true,
-    "svelte.styleIndent": true
+    "scriptIndent": true,
+    "styleIndent": true
   },
 
   "plugins": [
