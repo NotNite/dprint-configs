@@ -3,6 +3,7 @@
   "extends": [
     "./base.json",
     "./langs/typescript.json",
+    "./langs/rust.json",
     "./langs/web.json",
     "./langs/markdown.json",
     "./langs/data.json",
