@@ -4,7 +4,7 @@
   "extends": ["../base.json"],
 
   "exec": {
-    "cwd": "${configDir}",
+    "cwd": "${originConfigDir}",
     "commands": [{
       "command": "rustfmt --edition 2024",
       "exts": ["rs"]
