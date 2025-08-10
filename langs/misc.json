@@ -4,7 +4,7 @@
   "extends": ["../base.json"],
 
   "plugins": [
-    "https://plugins.dprint.dev/dockerfile-0.3.2.wasm",
-    "https://plugins.dprint.dev/g-plane/pretty_graphql-v0.2.1.wasm"
+    "https://plugins.dprint.dev/dockerfile-0.3.3.wasm",
+    "https://plugins.dprint.dev/g-plane/pretty_graphql-v0.2.3.wasm"
   ]
 }

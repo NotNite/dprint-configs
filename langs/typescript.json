@@ -9,6 +9,6 @@
   },
 
   "plugins": [
-    "https://plugins.dprint.dev/typescript-0.95.4.wasm"
+    "https://plugins.dprint.dev/typescript-0.95.9.wasm"
   ]
 }
